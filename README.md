@@ -1,5 +1,22 @@
-## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Check out my skills :D
+
+### Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+
+### Operating Systems:
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+
+### Applications
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,mysql)](https://skillicons.dev)
+
+### Framework/Tools
+
+[![My Skills](https://skillicons.dev/icons?i=git,nodejs,qt)](https://skillicons.dev)
+
+
 <!--
 **taeXgh/taeXgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
