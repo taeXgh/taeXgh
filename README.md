@@ -1,6 +1,6 @@
 ## Check out my skills :D
 
-### Programming Languages
+### Programming Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
 
@@ -8,15 +8,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
-### Applications
+### Applications:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,mysql)](https://skillicons.dev)
 
-### Framework/Tools
+### Framework/Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,nodejs,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,nodejs,qt,sqlite)](https://skillicons.dev)
 
-
+### How to reach me:
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:thalia.edwards2203@gmail.com)
 <!--
 **taeXgh/taeXgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
