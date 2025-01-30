@@ -2,15 +2,15 @@
 
 ### Programming Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,cpp)](https://skillicons.dev)
 
 ### Operating Systems:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mint,windows)](https://skillicons.dev)
 
 ### Applications:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,mysql,visualstudio)](https://skillicons.dev)
 
 ### Framework/Tools:
 
