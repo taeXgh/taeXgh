@@ -14,7 +14,7 @@
 
 ### Framework/Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,nodejs,qt,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,nodejs,qt,sqlite,postman)](https://skillicons.dev)
 
 ### How to reach me:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:thalia.edwards2203@gmail.com)
