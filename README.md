@@ -1,7 +1,7 @@
 # Thalia Edwards — Information Technology Graduate
 ### 🚀 Specializing in Cloud Integration, Infrastructure Automation, & DevSecOps Engineering
 
-[thalia.edwards2203@gmail.com](mailto:thalia.edwards2203@gmail.com) • **LinkedIn:** [thaliaedwards24](https://www.linkedin.com/in/thaliaedwards24/) • **Location:** Annandale, VA Area
+[thalia.edwards2203@gmail.com](mailto:thalia.edwards2203@gmail.com) • **Portfolio:** [thaliaedwards.dev](https://thaliaedwards.dev) • **LinkedIn:** [thaliaedwards24](https://www.linkedin.com/in/thaliaedwards24/) • **Location:** Annandale, VA Area
 
 ---
 
